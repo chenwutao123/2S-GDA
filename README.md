@@ -28,7 +28,6 @@ The checkpoints of the fine-tuned VLP models is accessible in [ALBEF](https://gi
 
 ## Transferability Evaluation
 ### Image-Text Retrieval Attack Evaluation
-Image-Text Retrieval Attack Evaluation on Flickr30K dataset
 
 1.baseline(SGA):
 ```bash
