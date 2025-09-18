@@ -1,4 +1,11 @@
 # 2S-GDA
+This repository contains code to reproduce results from the paper:
+
+A Two-Stage Globally-Diverse Adversarial Attack for Vision-Language Pre-training Models
+
+For additional implementation details, experimental results, and visualizations, please refer to the supplementary material provided in Supplementary_Material.pdf.
+
+Requirements
 1. Install dependencies
 pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
 
