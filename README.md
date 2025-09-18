@@ -8,7 +8,7 @@ For additional implementation details, experimental results, and visualizations,
     <img src="./images/Comparison_crossmodal_interactions.png" width=100%\>
     <figcaption>Comparison of cross-modal interactions. (a) SGA:
 three-stage perturbation (S1: text → S2: image → S3: text).
-(b) **2S-GDA**: two-stage perturbation (S1: text → S2: image).
+(b) ** 2S-GDA **: two-stage perturbation (S1: text → S2: image).
 v: input image; t: paired caption; t∗: intermediate state; v′, t′:
 corresponding adversarial examples. Arrows indicate guid-
 ance for generating adversarial examples.</figcaption>
