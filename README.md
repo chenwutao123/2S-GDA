@@ -35,8 +35,5 @@ baseline(SGA-BSR):
 ```
 Ours(2S-GDA):
 ```bash
-    python eval.py --disable_sga_last_step\
-         --enable_synonyms\
-         --enable_adaptive_replacement\
-         --enable_bsr_img_aug
+    python eval.py --disable_sga_last_step --enable_synonyms --enable_adaptive_replacement --enable_bsr_img_aug
 ```
