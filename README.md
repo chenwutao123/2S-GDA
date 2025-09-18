@@ -6,6 +6,12 @@ A Two-Stage Globally-Diverse Adversarial Attack for Vision-Language Pre-training
 For additional implementation details, experimental results, and visualizations, please refer to the supplementary material provided in Supplementary_Material.pdf.
 <p align="left">
     <img src="./images/Comparison_crossmodal_interactions.png" width=100%\>
+    <figcaption>omparison of cross-modal interactions. (a) SGA:
+three-stage perturbation (S1: text → S2: image → S3: text).
+(b) 2S-GDA: two-stage perturbation (S1: text → S2: image).
+v: input image; t: paired caption; t∗: intermediate state; v′, t′:
+corresponding adversarial examples. Arrows indicate guid-
+ance for generating adversarial examples.</figcaption>
 </p>
 
 ## Requirements
