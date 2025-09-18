@@ -5,7 +5,7 @@ A Two-Stage Globally-Diverse Adversarial Attack for Vision-Language Pre-training
 
 For additional implementation details, experimental results, and visualizations, please refer to the supplementary material provided in Supplementary_Material.pdf.
 <p align="left">
-    <img src="./images/" width=100%\>
+    <img src="./images/Comparison_crossmodal_interactions.png" width=100%\>
 </p>
 
 ## Requirements
